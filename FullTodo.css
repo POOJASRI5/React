@@ -1,0 +1,32 @@
+.container {
+  text-align: center;
+  margin-top: 50px;
+  font-family: Arial;
+}
+
+.input-section input {
+  padding: 10px;
+  width: 200px;
+}
+
+.input-section button {
+  padding: 10px;
+  margin-left: 10px;
+}
+
+ul {
+  list-style: none;
+  padding: 0;
+}
+
+li {
+  margin: 10px;
+  display: flex;
+  justify-content: center;
+  gap: 10px;
+}
+
+.done {
+  text-decoration: line-through;
+  color: gray;
+}
